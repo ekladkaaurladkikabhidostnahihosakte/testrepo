@@ -1,5 +1,5 @@
-#heading
+# heading
 
-##smaller heading
+## smaller heading
 
 some random text
