@@ -12,3 +12,5 @@ Any of the following is true:
 - The commit is not signed and an author has enabled vigilant mode.
 
 adding some more changes
+
+adding changes to check whether this time adding branch as upstream in vs code works or not
