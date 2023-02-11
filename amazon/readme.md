@@ -31,3 +31,11 @@ discovery of india
 one more try
 
 adding after writing git config --global commit.gpgsign true checking whterher this works or not
+
+now i have deleted old key
+then created new gpg key and added it in github settings
+and then i enabled sign commits in vs code settings , let's see how it works
+
+ok
+
+trying once again
